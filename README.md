@@ -18,7 +18,7 @@ think and try to answer correctly. It’s a fun game and you can keep on playing
 ```
 #### Project Details
 [**View Project**](https://github.com/shubhadeepmandal394/hangman-game/blob/master/doc/Hangman%20Game.pdf)  |  
-[**View Code**](https://github.com/shubhadeepmandal394/hangman-game/blob/master/hangman-game.c)
+>[**View Code**](https://github.com/shubhadeepmandal394/hangman-game/blob/master/hangman-game.c)
 
 #### Project Contributers
 >- [**Soubhik Maji**](https://github.com/MacMaji007)
