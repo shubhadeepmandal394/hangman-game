@@ -13,8 +13,8 @@ Hangman is a guessing game where player has think of a word, phrase or sentence 
 It contains the source code which has been duly tested for its performance and accuracy on a programming language environment. The Hangman Game is a very nice game to build the cognitive skills of people. It asks them to recollect their knowledge and think and try to answer correctly. It’s a fun game and you can keep on playing until you know all the words.
 ```
 
-### To View the Full Project [**Click Here**](doc/Hangman Game.pdf)
+### To View the Full Project [**Click Here**](https://github.com/shubhadeepmandal394/hangman-game/blob/master/doc/Hangman%20Game.pdf)
 
 ### Project Contributers
 1. [**Soubhik Maji**](https://github.com/MacMaji007)
-2. [**Soumya Koley**]()
+2. [**Soumya Koley**](https://github.com/Soumya1717)
