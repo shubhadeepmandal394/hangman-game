@@ -1,6 +1,7 @@
 # [**Hangman Game**](https://github.com/shubhadeepmandal394/hangman-game/blob/master/doc/Hangman%20Game.pdf)
 
-It is a micro-project based on the ‘Hangman Game’ which has been originally coded in ‘C’ Language. ([View Project](https://github.com/shubhadeepmandal394/hangman-game/blob/master/doc/Hangman%20Game.pdf)) - ([View Code](https://github.com/shubhadeepmandal394/hangman-game/blob/master/hangman-game.c))
+It is a micro-project based on the ‘Hangman Game’ which has been originally coded in ‘C’ Language. 
+>([View Project](https://github.com/shubhadeepmandal394/hangman-game/blob/master/doc/Hangman%20Game.pdf)) - ([View Code](https://github.com/shubhadeepmandal394/hangman-game/blob/master/hangman-game.c))
 
 
 #### What is Hangman Game ?
