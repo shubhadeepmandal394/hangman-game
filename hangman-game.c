@@ -1,5 +1,5 @@
 //Hangman Game in C Language
-// Copyright Shubhadeep Mandal, Soubhik Maji and Soumya Koley (Students at BPPIMT)
+// Copyright Shubhadeep Mandal, Soubhik Maji and Soumya Koley
 
 #include<stdio.h>
 #include<stdlib.h>
