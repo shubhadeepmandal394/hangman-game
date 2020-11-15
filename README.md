@@ -21,5 +21,6 @@ to answer correctly. It’s a fun game and you can keep on playing until you kno
 ```
 
 #### Project Contributers
+- [**Shubhadeep Mandal**](https://github.com/shubhadeepmandal394)
 - [**Soubhik Maji**](https://github.com/MacMaji007)
 - [**Soumya Koley**](https://github.com/Soumya1717)
