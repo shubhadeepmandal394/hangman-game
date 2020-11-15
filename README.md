@@ -7,7 +7,7 @@ It is a micro-project based on the ‘Hangman Game’ which has been originally 
 ```diff
 !WARNING!
 Executing the code in online compilers may cause problems, it's recomended to
-clone/download the repository and execute the same using you local gcc compiler.
+clone/download the repository and execute the same using your local gcc compiler.
 ```
 
 
