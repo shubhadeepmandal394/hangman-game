@@ -5,7 +5,7 @@ It is a micro-project based on the ‘Hangman Game’ which has been originally 
 | [View Project](https://github.com/shubhadeepmandal394/hangman-game/blob/master/doc/Hangman%20Game.pdf) | [View Code](https://github.com/shubhadeepmandal394/hangman-game/blob/master/hangman-game.c) | [Run Code Online](https://onlinegdb.com/B1DsY5AFw) |
 
 ```diff
-! WARNING
+!WARNING!
 Executing the code in online compilers may cause problems, it's recomended to
 clone / download the repository and execute the same using you local gcc compiler.
 ```
